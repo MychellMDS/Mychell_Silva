@@ -13,7 +13,7 @@ Nossas patas
 
 # 2. Diagrama do banco de dados
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HNSf62Bua9_yqcvnUdhpPnf1MHP3IxQpbQ&s)
+![]()
 
 # 3. Diagrama de casos de uso 
 
