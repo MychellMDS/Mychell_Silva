@@ -9,8 +9,12 @@ Autor: Mychell Marques da silva
 
 Sistema para clinica veterinaria...
 
+<<<<<<< HEAD
 Nome da clínica: Nossas patas
 Exercício 1:
+=======
+Nome da clínica:
+Nossas patas
 
 1.Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
 2.Os clientes devem fazer um cadastro de si e dos animais. 
@@ -43,7 +47,7 @@ Exercício 1:
 ---
 # 2. Diagrama do banco de dados
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HNSf62Bua9_yqcvnUdhpPnf1MHP3IxQpbQ&s)
+![]()
 
 ---
 # 3. Diagrama de casos de uso 
