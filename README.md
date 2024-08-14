@@ -15,7 +15,7 @@ Exercício 1:
 Nome da clínica:
 Nossas patas
 
-1.Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
+1.Uma clínica veterinária atende apenas os animais: gatos e cachorros.                        
 2.Os clientes devem fazer um cadastro de si e dos animais. 
 3.Os clientes devem informar as condições nas quais os animais chegam. 
 4.Os clientes devem informar o tipo de ração que o animal come. 
