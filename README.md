@@ -9,7 +9,6 @@ Autor: Mychell Marques da silva
 
 Sistema para clinica veterinaria...
 
-<<<<<<< HEAD
 Nome da clínica: Nossas patas
 Exercício 1:
 =======
