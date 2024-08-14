@@ -45,7 +45,71 @@ Nossas patas
 
 ---
 # 2. Diagrama do banco de dados
+```mermaid
+erDiagram
+    CLIENTE {
+        int id_cliente PK
+        string nome
+        string telefone
+        string endereco
+        boolean primeira_consulta
+        int numero_consultas
+    }
 
+    ANIMAL {
+        int id_animal PK
+        string nome
+        string tipo
+        string raca
+        string condicao
+        string habitos
+        string tipo_racao
+        int id_cliente FK
+    }
+
+    VETERINARIO {
+        int id_veterinario PK
+        string nome
+        string especialidade
+    }
+
+    ATENDIMENTO {
+        int id_atendimento PK
+        date data
+        time hora
+        string observacoes
+        string receita
+        int id_animal FK
+        int id_veterinario FK
+    }
+
+    AGENDA {
+        int id_agenda PK
+        date data
+        time hora
+        int id_veterinario FK
+        int id_cliente FK
+        int id_animal FK
+    }
+
+    PLANO_SAUDE {
+        int id_plano PK
+        string descricao
+        decimal valor
+        int id_cliente FK
+    }
+
+    CLIENTE ||--o{ ANIMAL : "possui"
+    CLIENTE ||--o{ PLANO_SAUDE : "adquire"
+    ANIMAL ||--o{ ATENDIMENTO : "recebe"
+    VETERINARIO ||--o{ ATENDIMENTO : "realiza"
+    VETERINARIO ||--o{ AGENDA : "tem"
+    CLIENTE ||--o{ AGENDA : "marca"
+    ANIMAL ||--o{ AGENDA : "tem"
+
+
+
+```
 ![]()
 
 ---
