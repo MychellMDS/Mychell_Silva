@@ -16,10 +16,10 @@ Nome da clínica:
 Nossas patas
 
 1.Uma clínica veterinária atende apenas os animais: gatos e cachorros.                        
-2.Os clientes devem fazer um cadastro de si e dos animais. 
-3.Os clientes devem informar as condições nas quais os animais chegam. 
-4.Os clientes devem informar o tipo de ração que o animal come. 
-5.O cliente deve informar hábitos do animal. 
+2.Os clientes devem fazer um cadastro de si e dos animais.                                    
+3.Os clientes devem informar as condições nas quais os animais chegam.                        
+4.Os clientes devem informar o tipo de ração que o animal come.                               
+5.O cliente deve informar hábitos do animal.                                                  
 6.Para cada animal é possível que mais de um veterinário o atenda. 
 7.Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
 8.Cada animal atendido receberá uma ficha e um prontuário. 
