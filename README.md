@@ -33,7 +33,7 @@ Nossas patas
 16.O resultado da entrevista deve ir para um formulário.    
 17.O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações.   
 18.Dependendo da situação do animal este receberá uma receita.  
-19.Dependendo da gravidade da situação o animal será atendido primeiro. 
+19.Dependendo da gravidade da situação o animal será atendido primeiro.                       
 20.Caso um cliente desmarque a consulta o próximo poderá ser antecipado.        
 21.Caso o cliente não apareça ele poderá remarcar.  
 22.Os clientes poderão pagar parcelado a consulta.  
