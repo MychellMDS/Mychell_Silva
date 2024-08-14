@@ -28,18 +28,18 @@ Nossas patas
 11.Quando um cliente chega na clínica veterinária ele é atendido por um atendente.            
 12.O atendente deve verificar se existe agenda disponível com um veterinário.                 
 13.O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso.    
-14.O atendente deve levar o cliente e o animal até o veterinário. 
-15.O veterinário deve realizar uma entrevista com o dono do animal. 
-16.O resultado da entrevista deve ir para um formulário. 
-17.O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
-18.Dependendo da situação do animal este receberá uma receita.
-19.Dependendo da gravidade da situação o animal será atendido primeiro.
-20.Caso um cliente desmarque a consulta o próximo poderá ser antecipado
-21.Caso o cliente não apareça ele poderá remarcar.
-22.Os clientes poderão pagar parcelado a consulta.
-23.A clinica vende plano de saúde pra PETS.
-24.Cliente terá desconto caso seja sua primeira consulta.
-25.Cliente receberá brindes se for sua 5º consulta.
+14.O atendente deve levar o cliente e o animal até o veterinário.   
+15.O veterinário deve realizar uma entrevista com o dono do animal.     
+16.O resultado da entrevista deve ir para um formulário.    
+17.O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações.   
+18.Dependendo da situação do animal este receberá uma receita.  
+19.Dependendo da gravidade da situação o animal será atendido primeiro. 
+20.Caso um cliente desmarque a consulta o próximo poderá ser antecipado.    
+21.Caso o cliente não apareça ele poderá remarcar.  
+22.Os clientes poderão pagar parcelado a consulta.  
+23.A clinica vende plano de saúde pra PETS. 
+24.Cliente terá desconto caso seja sua primeira consulta.   
+25.Cliente receberá brindes se for sua 5º consulta. 
 
 
 
