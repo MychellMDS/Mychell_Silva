@@ -124,4 +124,4 @@ erDiagram
 ---
 # 5. Arquetutura do sistema
 
-![]()
+![https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20175152.png?raw=true](https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20175152.png?raw=true)
