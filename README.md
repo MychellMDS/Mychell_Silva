@@ -115,7 +115,7 @@ erDiagram
 ---
 # 3. Diagrama de casos de uso 
 
-![c:\Users\unemat\Pictures\Saved Pictures\trabalho.drawio.png](c:\Users\unemat\Pictures\Saved Pictures\trabalho.drawio.png)
+![]()
 ---
 # 4. Principais telas de uso sistema
 
