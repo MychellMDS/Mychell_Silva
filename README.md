@@ -119,7 +119,7 @@ erDiagram
 ---
 # 4. Principais telas de uso sistema
 
-![]()
+![https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20230238.png?raw=true](https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20230238.png?raw=true)
 
 ---
 # 5. Arquetutura do sistema
