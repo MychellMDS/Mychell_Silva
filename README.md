@@ -10,10 +10,9 @@ Autor: Mychell Marques da silva
 Sistema para clinica veterinaria...
 
 Nome da clínica: Nossas patas
-Exercício 1:
+
 =======
-Nome da clínica:
-Nossas patas
+
 
 1.Uma clínica veterinária atende apenas os animais: gatos e cachorros.                        
 2.Os clientes devem fazer um cadastro de si e dos animais.                                    
