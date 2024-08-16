@@ -126,21 +126,3 @@ erDiagram
 
 ![https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20175152.png?raw=true](https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20175152.png?raw=true)
 
-digraph architecture {
-    rankdir=LR;
-    
-    subgraph cluster_0 {
-        label = "Servidor Web";
-        web_server [label="Servidor Web", shape=box];
-        php_app [label="Aplicação PHP", shape=ellipse];
-    }
-
-    subgraph cluster_1 {
-        label = "Servidor de Banco de Dados";
-        db_server [label="Servidor de Banco de Dados", shape=box];
-    }
-    
-    web_server -> php_app;
-    php_app -> db_server;
-}
-
