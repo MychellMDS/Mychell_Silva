@@ -126,10 +126,3 @@ erDiagram
 
 ![https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20175152.png?raw=true](https://github.com/MychellMDS/Mychell_Silva/blob/main/Captura%20de%20tela%202024-08-15%20175152.png?raw=true)
 
-graph TD;
-    Client[Cliente Web] --> |HTTP Request| WebServer[Servidor Web]
-    WebServer --> |Processa Requisição| PHP[Aplicação PHP]
-    PHP --> |Consulta| DB[Servidor de Banco de Dados]
-    DB --> |Resposta| PHP
-    PHP --> |Gera Resposta| WebServer
-    WebServer --> |HTTP Response| Client
